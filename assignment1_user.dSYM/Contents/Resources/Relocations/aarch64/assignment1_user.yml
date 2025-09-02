@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adam/Documents/coding data/assignment1_user'
+relocations:     []
+...
